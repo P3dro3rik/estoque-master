@@ -1,0 +1,6 @@
+@EstoqueMaster_HostAddress = http://localhost:5014
+
+GET {{EstoqueMaster_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
